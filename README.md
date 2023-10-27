@@ -1,4 +1,8 @@
 ### Hi there 👋
+```asm
+call _helloWorld
+```
+
 
 <!--
 **kosskas/kosskas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
